@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /platform
+Allow: /docs
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: https://pilotmail.io/sitemap.xml
